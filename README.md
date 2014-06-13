@@ -27,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-    require 'rboost_rtree_2d_rect'
+    require 'rboost_rtree_2d_rect/rboost_rtree_2d_rect'
     
     rt = BOOST::R_tree_2d_rect.new
     
